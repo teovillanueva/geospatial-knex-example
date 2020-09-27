@@ -1,0 +1,20 @@
+{
+	"name": "geospatial-knex-example",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon src"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"knex": "^0.21.5",
+		"pg": "^8.3.3"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.4"
+	}
+}
